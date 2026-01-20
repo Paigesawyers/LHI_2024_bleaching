@@ -1,0 +1,39 @@
+﻿Hard Coral,Code,,,Other,Code,Soft Coral,Code
+Acropora Branching Bleached,ABB,Montipora Plating Recent Dead,MOPRD,Anemone,Anemone,Xenia cf crassa Bleached,XccB
+Acropora Branching Healthy,ABH,Montipora Plating Bleached,MPB,Ascidians,Ascidians,Xenia cf crassa Dead,XccD
+Acropora Branching Paling,ABP,Montipora Plating Dead,MPD,Echinoderms,ECH,Xenia cf crassa Healthy,XccH
+Acropora spp. branching_recently dead,ABRD,Montipora plating fluorescence,MPF,Sponges,Spgs,Xenia cf crassa Paling,XccP
+Old dead Acropora (branching),ABOD,Montipora Plating Healthy,MPH,Sand,Sand,Other Soft Corals,OSC
+Acropora blue morphology bleached,ABMB,Montipora Plating Paling,MPP,Bare Rock,BARK,Cladiella sp. Bleached,CsB
+Acropora blue morphology healthy,ABMH,Paragoniastra Bleached,PAB,Cyanobacteria,CYANOB,Cladiella sp. Dead,CsD
+Acropora blue morphology old dead,ABMOD,Paragoniastra Dead,PAD,Holothurians,Holothuria,Cladiella sp. Healthy,CsH
+Acropora blue morphology paling,ABMP,Paragoniastra Healthy,PAH,Rubble,Rubble,Cladiella sp. Paling,CsP
+Acropora blue morphology recent dead,ABMRD,Paragoniastra Plaing,PARAP,CCA (crustose coralline algae),CCA,,
+Acanthastrea_recently dead,ACRD,Bleached Pocillopora,PDB,Macroalgae,M,,
+Acanthastrea Bleached,ACBB,Pocillopora Healthy,PDH,Turf algae,Turf,,
+Acanthastrea Dead,ACDD,Pocillopora (pale),PDP,,,,
+Acanthastrea Healthy,ACH,Bleached Porites,POB,,,,
+Acanthastrea Paling,ACPP,Pocillopora fluorescence,POF,,,,
+Acropora NonBranching Bleached,ANB,Porites Healthy,POH,,,,
+Acropora NonBranching Healthy,ANH,Pocillopora old dead,POOD,,,,
+Acropora nonbranching old dead,ANOD,Pocillopora recent dead,PORD,,,,
+Acropora NonBranching Paling,ANP,Porites Fluorescence,PORF,,,,
+Acropora nonbranching recent dead,ANRD,Porites Healthy Hypermycosis,PORHH,,,,
+Astrea,Astrea,Porites bleached hypermycosis,PORIBH,,,,
+Bleached Cyphastrea,CYB,Porites Old Dead,POROD,,,,
+Cyphastrea spp. recently dead,CYRD,Porites Pale,PORP,,,,
+Cyphastrea Dead,CYD,Porites Paling Hypermycosis,PORPH,,,,
+Cyphastrea Healthy,CYH,Porites recent dead,PORRD,,,,
+Cyphastrea Paling,CYP,Pocillopora Purple Morphology bleached,PPMB,,,,
+Bleached Isopora,ISB,Pocillopora Purple Morphology fluorescense,PPMF,,,,
+Isopora Healthy,ISH,Pocillopora Purple Morphology healthy,PPMH,,,,
+Isopora Old Dead,ISOOD,Pocillopora Purple Morphology old dead,PPMOD,,,,
+Isopora Pale,ISP,Pocillopora Purple Morphology pale,PPMP,,,,
+Isopora Recently Dead,ISRD,Pocillopora Purple Morphology recently dead,PPMRD,,,,
+Low Tide Partial Mortality,LTPM,Bleached Seriatopora,SEB,,,,
+Montipora Encrusting Bleached,MEB,Seriatopora Healthy,SEH,,,,
+Montipora Encrusting Dead,MEDD,Seriatopora old dead,SEOD,,,,
+Montipora Encrusting Fluroescence,MEF,Seriatopora pale,SEPL,,,,
+Montipora Encrusting Healthy,MEH,Seriatopora Recent Dead,SERD,,,,
+Montipora Encrusting Paling,MEP,,,,,,
+Montipora Encrusting Recent Dead,MOERD,,,,,,
