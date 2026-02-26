@@ -23,11 +23,12 @@ This project analyses the 2024 marine heatwave at Lord Howe Island (LHI).
 /Figures                      - Generated plots and visualisations  
 
 Scripts:  
-- LHI_clean_load_data_cleaned.R  
-- LHI_coral_models_cleaned.R  
-- LHI_statistics_cleaned.R  
-- LHI_coral_figures_cleaned.R  
-- LHI_SST_temp_cleaned.R  
+- LHI_clean_load_data.R  
+- LHI_coral_models.R  
+- LHI_statistics.R  
+- LHI_coral_figures.R  
+- LHI_SST_temp.R
+- LHI_coral_nmds.R 
 
 README.md                  - This file
 
@@ -52,16 +53,16 @@ README.md                  - This file
        - Saves model objects in ./models/ for downstream use.
 
     c) Statistical Analysis:
-       - Script: LHI_statistics_cleaned.R
+       - Script: LHI_statistics.R
        - Loads fitted models, extracts EMMs, computes contrasts, and generates summary tables.
 
     d) Figures:
-       - Script: LHI_coral_figures_cleaned.R
+       - Script: LHI_coral_figures.R
        - Generates visualisations of coral cover, genera distributions, health categories, and NMDS ordinations.
 
     e) SST & DHW Analysis:
-       - Script: LHI_SST_temp_cleaned.R
-       - Processes in situ and satellite SST data, computes anomalies, DHW, and plots NOAA-style facetted figures.
+       - Script: LHI_SST_temp.R
+       - Processes in situ and satellite SST data, computes anomalies, DHWs, SST, IST and plots figures.
 
  4. Optional:
     - Export plots or summary tables by uncommenting the ggsave or write_csv lines in each script.
@@ -183,7 +184,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
 # =============================================================================
 # Models
 # =============================================================================
- Script: LHI_coral_models_cleaned.R
+ Script: LHI_coral_models.R
 
  Purpose:
    Fit statistical models to processed coral cover and health data, including:
@@ -242,7 +243,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
 # =============================================================================
 # Figures
 # =============================================================================
- Script: LHI_coral_figures_cleaned.R
+ Script: LHI_coral_figures.R
 
  Purpose:
    Generate visualisations from previously fitted coral cover and health models,
@@ -320,7 +321,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
 # =============================================================================
 # SST & DHW Analysis
 # =============================================================================
- Script: LHI_SST_temp_cleaned.R
+ Script: LHI_SST_temp.R
 
  Purpose:
    Process in situ and satellite sea surface temperature (SST) data for Lord Howe
@@ -400,7 +401,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
 # =============================================================================
  Statistical Analysis
 # =============================================================================
- Script: LHI_statistics_cleaned.R
+ Script: LHI_statistics.R
 
  Purpose:
    Load previously fitted GLMMs and extract Estimated Marginal Means (EMMs) to:
