@@ -9,8 +9,6 @@
 # -----------------------------
 rm(list = ls())
 
-setwd("/users/paigesawyers/Desktop/LHI/LHI_sawyers_et_al_2026/paige_all_files/")
-
 # -----------------------------
 # 1. Load required packages
 # -----------------------------
