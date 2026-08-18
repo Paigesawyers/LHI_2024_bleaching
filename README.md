@@ -116,9 +116,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
 - `Soft_coral`       - Full label of the annotation 
 - `Other`            - Full label of the annotation 
  
-# =============================================================================
 # Data Cleaning and Wrangling Script
-# =============================================================================
  Script: LHI_clean_load_data_cleaned.R
   Purpose:
   Process raw coral point-annotation data, standardise formats, classify coral
@@ -181,9 +179,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
  - Outputs are used in subsequent scripts for coral cover modelling, genera-
    specific analyses, and health contrasts.
 
-# =============================================================================
 # Models
-# =============================================================================
  Script: LHI_coral_models.R
 
  Purpose:
@@ -240,9 +236,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
  - Outputs are later used for estimated marginal means (emmeans) extraction
    and pairwise contrasts in downstream analysis scripts.
 
-# =============================================================================
 # Figures
-# =============================================================================
  Script: LHI_coral_figures.R
 
  Purpose:
@@ -318,9 +312,7 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
    - Filtering applied to health categories per site to reflect biologically
      meaningful occurrences.
 
-# =============================================================================
 # SST & DHW Analysis
-# =============================================================================
  Script: LHI_SST_temp.R
 
  Purpose:
@@ -398,9 +390,8 @@ Mapping of CoralNet annotation codes to coral genera and health categories.
    - Rolling DHW window defaults to 84 days (12 weeks) to match NOAA methodology.
    - Facetted plots allow visual comparison across multiple reef sites.
 
-# =============================================================================
- Statistical Analysis
-# =============================================================================
+
+ # Statistical Analysis
  Script: LHI_statistics.R
 
  Purpose:
