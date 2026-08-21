@@ -1,8 +1,6 @@
-##===============================
 ## 2024 MARINE HEATWAVE ANALYSIS – Lord Howe Island
 ## SST / In Situ & Satellite Data
 ## Consistent NOAA-style DHW calculations
-##===============================
 
 # -----------------------------
 # 0. Clean environment
